@@ -1,4 +1,4 @@
-package other
+package test4lib
 
 import (
 	"testing"

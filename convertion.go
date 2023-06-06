@@ -2,9 +2,8 @@ package other
 
 import (
 	"fmt"
-	"time"
 )
 
-func MyPrint() {
-	fmt.Println(time.Now())
+func MyPrint(val interface{}) {
+	fmt.Println(val)
 }
